@@ -1,0 +1,31 @@
+.navbar-custom {
+    height: 80px;
+    
+}
+
+.homepanel {
+    position: relative;
+    right: 150px;
+}
+
+.btn1 {
+    position: relative;
+    right: 80px;
+    
+
+}
+
+.btn2 {
+    position: relative;
+    right: 50px;
+    
+
+}
+
+.vertical-line {
+    position: relative;
+    right: 280px;
+    border-left: 2px solid black;
+    height: 60px; /* Adjust the height as needed */
+  }
+  
